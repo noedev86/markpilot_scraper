@@ -1,7 +1,7 @@
 # markpilot_scraper
 ## challenge markpilot
 
-__main.py__ : was just the sketch to know how to retrieve data 
+__main.py__ : was just the sketch to know how to retrieve data, not at all used *just a scratch*
 
 __solid_scraper.py__ : contains all the classes used to scrape with bs4 the wolle marketplace
 
