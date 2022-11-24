@@ -1,4 +1,4 @@
-from solid_scraper import *
+from WolleScrapper import *
 
 url="https://www.wollplatz.de/"
 

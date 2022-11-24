@@ -86,7 +86,7 @@ class Scraper(Data):
 
 # new class to search inside the page for different data
 
-class GetDetails:
+class GetDetailsWolle:
     def __init__(self,descr_link):
         # first get the soup of the descr link
         self.descr_soup=get_soup(descr_link)

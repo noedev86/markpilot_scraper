@@ -1,5 +1,5 @@
 import unittest
-from solid_scraper import *
+from WolleScrapper import *
 
 
 data={'DMC':'Natura XL','Drops':['Safran','Baby Merino Mix'],'Hahn':'Alpacca Speciale','Stylecraft':'Special DK','Durable':'Coral'}
